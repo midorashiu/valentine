@@ -1,0 +1,9 @@
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-size: 35px;
+  background-image: url(https://www.freevector.com/uploads/vector/preview/19739/7-09.jpg);
+}
